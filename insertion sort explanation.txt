@@ -1,0 +1,9 @@
+the insertion sort works by picking the index of the
+first element as the mininum value it then iterates over the 
+list of elements and checks if the other element is 
+lesser than the element at the minimimum index
+if the element is less it stores the index as the new index of the minimum value
+and after the inner loop iterates over all the elements it swaps the element at the stored
+minimimum index to the first index and then locks the first index and 
+then moves to the second index the inner loop iterates again to store the index of the 
+less value and swaps after the inner loop iterates over all the elements
